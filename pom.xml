@@ -8,10 +8,10 @@
         <version>2.3.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ecommerce-order-processing-system</groupId>
-    <artifactId>project</artifactId>
+    <groupId>com.ecommerce.egen</groupId>
+    <artifactId>order-microservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ecommerce-order-processing-system</name>
+    <name>order-microservice</name>
     <description>Project for designing order processing system</description>
 
     <properties>

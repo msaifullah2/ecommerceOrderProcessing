@@ -23,20 +23,20 @@ import java.util.List;
 @EnableSwagger2
 public class EcommerceOrderProcessingSystemApplication {
 
-//    @Autowired
-//    private ShippingMethodRepository shippingMethodRepository;
-//
-//    @Autowired
-//    private CustomerRepository customerRepository;
-//
-//    @Autowired
-//    private BillingRepository billingRepository;
-//
-//    @Autowired
-//    private ShippingAddressRepository shippingAddressRepository;
-//
-//    @Autowired
-//    private ItemRepository itemRepository;
+    @Autowired
+    private ShippingMethodRepository shippingMethodRepository;
+
+    @Autowired
+    private CustomerRepository customerRepository;
+
+    @Autowired
+    private BillingRepository billingRepository;
+
+    @Autowired
+    private ShippingAddressRepository shippingAddressRepository;
+
+    @Autowired
+    private ItemRepository itemRepository;
 
 
     public static void main(String[] args) {
